@@ -52,6 +52,7 @@ public class GUI implements ActionListener{
     public void actionPerformed(ActionEvent e) {
         count++;
         label.setText("Number of clicks: " + count);
-
+       
+        
     }
 }
