@@ -42,7 +42,7 @@ public class GUI implements ActionListener{
         frame.pack();
         frame.setVisible(true);
 
-    } 
+    }   
 
     public static void main(String[] args){
         new GUI();
